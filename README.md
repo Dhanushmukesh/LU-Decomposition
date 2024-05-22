@@ -40,7 +40,8 @@ lu,piv=lu_factor(A) x=lu_solve((lu,piv),b)
 print(x)
 ```
 ## Output:
-![WhatsApp Image 2024-05-22 at 21 56 40_e207868a](https://github.com/Dhanushmukesh/LU-Decomposition/assets/155508176/9debd9b9-2772-4c49-aafb-fe9014990d9c)
+![333](https://github.com/Dhanushmukesh/LU-Decomposition/assets/155508176/145a5669-b91b-479a-906d-3f27c52b93c1)
+
 ![33](https://github.com/Dhanushmukesh/LU-Decomposition/assets/155508176/db7d280a-faa4-404e-b269-6ec37e0e98b9)
 
 ## Result:
